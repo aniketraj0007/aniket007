@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Raj</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="coding"width="400"src="https://www.bing.com/th/id/OGC.201a0fce023b2b6590a6b18a4fdd4f16?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f55389276%2f140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&ehk=8bWWNYb0o3fqqam6MMSArbyYp1SB54A0nfT%2b%2byALpi4%3d">
+<img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketraj0007&label=Profile%20views&color=0e75b6&style=flat" alt="aniketraj0007" /> </p>
 
